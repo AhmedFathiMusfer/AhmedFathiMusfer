@@ -1,126 +1,136 @@
-# 👋 Hi, I'm Ahmed Fathi Musfer
+# 👋 Hi, I'm Ahmed Fathi Musfer  
 
-🚀 Full-Stack Developer | ASP.NET Core | Flutter | Microservices | Clean Architecture  
+🚀 **Mobile & Backend Engineer (Flutter + ASP.NET Core)**  
+📱 Cross-Platform Mobile Specialist | 🏗 Distributed Systems Developer  
 
-I build scalable backend systems and production-ready mobile & web applications with strong architectural foundations.
+I build scalable backend infrastructures and production-ready mobile applications with strong architectural foundations and clean system design.
 
 ---
 
 ## 🧠 Professional Summary
 
-Full-Stack Developer with hands-on experience designing and building scalable systems across web and mobile platforms. 
+Mobile & Backend Engineer specializing in:
 
-- Strong expertise in ASP.NET Core & distributed backend systems
-- Advanced Flutter development (offline-first architecture)
-- Microservices & event-driven architecture
+- Advanced **Flutter development** (Offline-First Architecture, structured sync systems)
+- Scalable backend systems using **ASP.NET Core**
+- Microservices & Event-Driven Architecture
+- Clean Architecture & Modular Design
 - Production deployment using Docker
-- Experience serving large-scale educational platforms
 
-Hackathon Winner 🏆 – 1st place among 17 teams (ASP.NET Backend Solution)
+I focus on building systems that are scalable, maintainable, and ready for real-world production environments.
 
----
-
-## 🏢 Experience
-
-### 🚀 Wings Team — Remote  
-**Full-Stack Developer (ASP.NET Core & Flutter)** | 2024 – Present  
-
-- Contributed to one of the most prominent School Management Systems in Yemen
-- Built scalable backend services using ASP.NET Core
-- Designed multi-role system architecture (Students, Parents, Teachers, Supervisors, Admins)
-- Implemented Role-Based Access Control (RBAC)
-- Developed offline-first mobile modules with structured sync mechanisms
-- Integrated GPS live tracking & Google Maps
-- Built dynamic reporting and export-ready systems
-- Managed and secured production servers
-- Implemented push notifications & background processing
-- Applied Clean Architecture & modular design principles
+🏆 Hackathon Winner – 1st place among 17 teams (ASP.NET Backend Solution)
 
 ---
 
-## 🛠 Technical Stack
+# 📱 Mobile Expertise (Primary Strength)
 
-### 🔹 Backend
-- ASP.NET Core
+### 🔹 Flutter (Advanced Level)
+- Offline-First Architecture
+- Structured Sync Mechanisms (Retry Logic, Conflict Handling)
+- Background Processing
+- State Management (Bloc, Riverpod, GetX)
+- Firebase Cloud Messaging (Topic-based notifications)
+- SQLite & Local Data Modeling
+- Performance Optimization
+- Modular & Feature-Based Structure
+
+I design mobile systems that work reliably even in low-connectivity environments.
+
+---
+
+# 🏗 Backend & Distributed Systems
+
+### 🔹 ASP.NET Core
 - RESTful APIs
 - Clean Architecture
 - Entity Framework Core
 - LINQ
 - JWT Authentication
-- gRPC
-- MediatR
-- Microservices Architecture
+- Role-Based Access Control (RBAC)
+- MediatR (CQRS pattern)
 
-### 🔹 Messaging & Async Systems
+### 🔹 Microservices & Communication
 - RabbitMQ
 - MassTransit
-- Background Processing
+- gRPC
+- Event-Driven Architecture
+- Background Processing Services
 
-### 🔹 Frontend & Mobile
-- Flutter (Cross-platform)
-- Angular
-- TypeScript
-- State Management (Bloc, GetX, Riverpod)
-- Offline-First Architecture
-- Firebase Cloud Messaging
+---
 
-### 🔹 Databases
+# 🗄 Databases
 - SQL Server
 - MySQL
 - SQLite
 
-### 🔹 DevOps & Tools
+---
+
+# 🐳 DevOps & Deployment
 - Docker & Docker Compose
+- Production Server Management
 - Git & GitHub
-- Postman
-- Swagger
+- Swagger & Postman
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏫 Integrated School Management System
-Large-scale multi-role system with:
-- Attendance tracking
-- Academic performance monitoring
-- Live transportation tracking
-- Role-based dynamic features
-- Offline synchronization system
+## 🏫 Integrated School Management System
+Large-scale multi-role platform serving educational institutions.
+
+- Students, Parents, Teachers, Supervisors & Admin roles
+- Offline mobile modules with structured synchronization
+- Live GPS tracking & map integration
+- Attendance & academic performance monitoring
+- Role-based dynamic feature rendering
+- Push notifications & background services
 
 ---
 
-### 🛒 E-Commerce Microservices System
-- Product, Order, Identity Services
-- Event-driven communication using RabbitMQ
+## 🛒 E-Commerce Microservices Platform
+Distributed system built with ASP.NET Core.
+
+- Product, Order & Identity Services
+- Event-driven communication (RabbitMQ)
 - gRPC service-to-service communication
-- Dockerized distributed environment
+- Dockerized microservices environment
+- Filtering, pagination & authentication
 
 ---
 
-### 🔥 Auction System
-- Real-time bidding
-- Automated bidding logic
-- Role-based authentication
-- Advanced filtering & pagination
+## 🏥 Smart Medical Appointment System
+
+Intelligent medical booking platform with smart pre-diagnosis workflow.
+
+- Initial symptom-based assessment upon app entry
+- Smart doctor recommendation based on diagnosis results
+- Appointment scheduling system
+- Secure medical file sharing with doctors
+- Role-based access (Patient / Doctor)
+- Structured backend APIs with secure authentication
+- Clean Architecture & modular design
+
+This system combines mobile UX intelligence with secure backend architecture to enhance the healthcare booking experience.
 
 ---
 
-### 🏥 Pharmacy Management System
-- Inventory tracking
-- Sales monitoring
-- Real-time stock updates
-- Modular architecture
+## 🏥 Pharmacy Management System
+- Inventory & stock tracking
+- Sales analytics
+- Modular backend architecture
+- Scalable system design
 
 ---
 
-## 🏆 Awards & Certifications
+# 🏆 Awards & Certifications
 
 🏅 Hackathon Winner – Exhibition Tech Sana'a (2024)  
 🎓 Google Cybersecurity Professional Certificate – Coursera  
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 📧 ahmedfathimusfer@gmail.com  
 🌍 Sana'a – Open to Remote Opportunities  
@@ -128,18 +138,4 @@ Large-scale multi-role system with:
 
 ---
 
-⭐ I focus on building scalable, maintainable, and production-ready systems.
-<!--
-**AhmedFathiMusfer/AhmedFathiMusfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ I specialize in building scalable mobile and backend systems with production-level architecture.
